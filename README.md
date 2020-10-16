@@ -8,8 +8,8 @@ I am an Android developer from Portugal. Also, a full-time husband and a father 
 
 ### Some interesting facts about me!
 
-[![andrefrsousa's github stats](https://github-readme-stats.vercel.app/api?username=andrefrsousa&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrsousa&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![andrefrsousa's github stats](https://github-readme-stats.vercel.app/api?username=andrefrsousa&show_icons=true&line_height=21&show_icons=true&theme=vue&title_color=0059CC&icon_color=0059CC)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrsousa&show_icons=true&layout=compact&theme=vue&title_color=0059CC&icon_color=0059CC)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrefrsousa/andrefrsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
