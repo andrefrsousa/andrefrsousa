@@ -1,9 +1,10 @@
 ### Hey, It's André here
 I am an Android developer from Portugal. Also, a full-time husband and a father that in its spare time like to do code review and develop some android apps. My favorite things right now are kotlin and python.
 
-- 💻 Working as a **Android Lead Software Engineer** in [WIT Software](https://www.wit-software.com).
-- ☀️ Learning and Developing Android projects in Java/Kotlin.
-- ✍️ Writing tech blog posts over Internet.
+- 💻 I'm currently working at [WIT Software](https://twitter.com/wit_software) as a **Android Lead Software Engineer**
+- ☀️ I use daily this file extensions: .java, .kt
+- 📫 How to reach me: [Twitter](https://twitter.com/andrefrsousa), [GitHub](https://github.com/andrefrsousa), [Stackoverflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/)
+- ⚡ Fun fact: I'm a huge fan of StarWars
 
 
 ### Some interesting facts about me!
@@ -24,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✍️ Writing tech blog posts over Internet
 -->
