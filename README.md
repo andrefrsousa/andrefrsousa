@@ -1,13 +1,16 @@
-### Hey, It's André here
-I am an Android developer from Portugal. Also, a full-time husband and a father that in its spare time like to do code review and develop some android apps. My favorite things right now are kotlin and python.
+### I'm a Front-end Developer working in Leira, Portugal.
+#### TL;DR
 
-- 💻 I'm currently working at [WIT Software](https://twitter.com/wit_software) as a **Android Lead Software Engineer**
-- ☀️ I use daily this file extensions: .java, .kt
-- 📫 How to reach me: [Twitter](https://twitter.com/andrefrsousa), [GitHub](https://github.com/andrefrsousa), [Stackoverflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/)
+- 💻 I'm currently working at [WIT Software](https://twitter.com/wit_software) as an **Android Lead Software Engineer**
+
+- ☀️ I use daily this file extensions: *.java*, *.kt*
+
+- 📫 How to reach me: [Twitter](https://twitter.com/andrefrsousa), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/), [GitHub](https://github.com/andrefrsousa), [Stackoverflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [Medium](href="https://medium.com/andré-sousa)
+
 - ⚡ Fun fact: I'm a huge fan of StarWars
 
 
-### Some interesting facts about me!
+### Some interesting facts about me
 
 [![andrefrsousa's github stats](https://github-readme-stats.vercel.app/api?username=andrefrsousa&show_icons=true&line_height=21&show_icons=true&theme=vue&title_color=0059CC&icon_color=0059CC)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrsousa&show_icons=true&layout=compact&theme=vue&title_color=0059CC&icon_color=0059CC)](https://github.com/anuraghazra/github-readme-stats)
