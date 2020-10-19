@@ -2,11 +2,8 @@
 #### TL;DR
 
 - 💻 I'm currently working at [WIT Software](https://twitter.com/wit_software) as an **Android Lead Software Engineer**
-
 - ☀️ I use daily this file extensions: *.java*, *.kt*
-
 - 📫 How to reach me: [Twitter](https://twitter.com/andrefrsousa), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/), [GitHub](https://github.com/andrefrsousa), [Stackoverflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [Medium](href="https://medium.com/andré-sousa)
-
 - ⚡ Fun fact: I'm a huge fan of StarWars
 
 
