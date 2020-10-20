@@ -1,7 +1,7 @@
-## I am a front-end developer working in Leira, Portugal. 
-### TL;DR
+### I am a front-end developer working in Leira, Portugal. 
+#### TL;DR
 
-- I currently work at [WIT Software](https://twitter.com/wit_software) as ** Android Lead Software Engineer **
+- I currently work at [WIT Software](https://twitter.com/wit_software) as **Android Lead Software Engineer**
 - I use these file extensions daily: *.java*, *.kt*, *.py*
 - How you can reach me: [Twitter](https://twitter.com/andrefrsousa), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/), [GitHub](https://github.com/andrefrsousa), [Stackoverflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [Medium](href="https://medium.com/andré-sousa)
 - Fun fact: I am also a full-time husband, father and a big fan of StarWars
