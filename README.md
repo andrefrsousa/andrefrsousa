@@ -1,4 +1,4 @@
-### I am a front-end developer working in Leira, Portugal. 
+### I am a front-end developer working in Leiria, Portugal. 
 #### TL;DR
 
 - 💻 I currently work at [WIT Software](https://twitter.com/wit_software) as **Android Lead Software Engineer**
